@@ -1,2 +1,2 @@
-# Python---project2
+# Python-project2
 This is my second  python project 
